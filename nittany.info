@@ -1,1 +1,86 @@
-name = Nittany
+; required for packaging
+name = "Nittany"
+description = "Distribution created for learning about Drupal through hands on activities"
+core = "7.x"
+; Core projects to install by default
+dependencies[] = "block"
+dependencies[] = "color"
+dependencies[] = "comment"
+dependencies[] = "contextual"
+dependencies[] = "dashboard"
+dependencies[] = "help"
+dependencies[] = "image"
+dependencies[] = "list"
+dependencies[] = "menu"
+dependencies[] = "number"
+dependencies[] = "options"
+dependencies[] = "path"
+dependencies[] = "taxonomy"
+dependencies[] = "dblog"
+dependencies[] = "search"
+dependencies[] = "shortcut"
+dependencies[] = "toolbar"
+dependencies[] = "overlay"
+dependencies[] = "field_ui"
+dependencies[] = "file"
+dependencies[] = "rdf"
+
+; Developer best practices
+dependencies[] = "coder"
+dependencies[] = "devel"
+; Nittany specific ones
+dependencies[] = "delta"
+dependencies[] = "workbench"
+; Administration
+dependencies[] = "admin"
+dependencies[] = "model"
+dependencies[] = "entity"
+
+; Chaos tool suite
+dependencies[] = "ctools"
+; Context
+dependencies[] = "context"
+; Date/Time
+dependencies[] = "date"
+dependencies[] = "date_api"
+; Features
+dependencies[] = "features"
+; Token
+dependencies[] = "token"
+; Libraries API
+dependencies[] = "libraries"
+; jQuery Update
+dependencies[] = "jquery_update"
+; Contrib
+dependencies[] = "strongarm"
+dependencies[] = "hidden_nodes"
+; Administration
+dependencies[] = "module_filter"
+; CCK
+dependencies[] = "masquerade"
+dependencies[] = "advanced_help"
+dependencies[] = "backup_migrate"
+dependencies[] = "htmlpurifier"
+dependencies[] = "imce"
+dependencies[] = "imce_crop"
+dependencies[] = "job_scheduler"
+dependencies[] = "options_element"
+dependencies[] = "stringoverrides"
+dependencies[] = "pathauto"
+dependencies[] = "better_formats"
+; User interface
+dependencies[] = "ckeditor_link"
+dependencies[] = "imce_wysiwyg"
+dependencies[] = "wysiwyg"
+dependencies[] = "wysiwyg_template"
+dependencies[] = "nodeformcols"
+; Views
+dependencies[] = "views"
+dependencies[] = "views_bulk_operations"
+dependencies[] = "views_fluid_grid"
+dependencies[] = "views_slideshow"
+; Printer, e-mail and PDF
+dependencies[] = "print"
+
+; Files to load
+files[] = nittany.profile
