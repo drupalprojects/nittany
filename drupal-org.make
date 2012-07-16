@@ -130,6 +130,15 @@ projects[date][subdir] = "contrib"
 projects[jquery_update][version] = "2.2"
 projects[jquery_update][subdir] = "contrib"
 
+projects[taxonomy_menu][version] = "1.2"
+projects[taxonomy_menu][subdir] = "contrib"
+
+projects[taxonomy_access][version] = "1.0-rc1"
+projects[taxonomy_access][subdir] = "contrib"
+
+projects[themekey][version] = "2.2"
+projects[themekey][subdir] = "contrib"
+
 ; Themes
 
 projects[rubik][version] = "4.0-beta8"

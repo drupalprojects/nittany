@@ -31,6 +31,9 @@ dependencies[] = "devel"
 ; Nittany specific ones
 dependencies[] = "delta"
 dependencies[] = "workbench"
+dependencies[] = "taxonomy_menu"
+dependencies[] = "taxonomy_access"
+dependencies[] = "themekey"
 ; Administration
 dependencies[] = "admin"
 dependencies[] = "model"
