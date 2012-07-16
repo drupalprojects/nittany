@@ -86,6 +86,7 @@ dependencies[] = "views_slideshow"
 dependencies[] = "print"
 
 dependencies[] = "rules"
+dependencies[] = "omega_tools"
 
 ; Files to load
 files[] = nittany.profile

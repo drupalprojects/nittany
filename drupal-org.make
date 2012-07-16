@@ -142,6 +142,9 @@ projects[themekey][subdir] = "contrib"
 projects[rules][version] = "2.1"
 projects[rules][subdir] = "contrib"
 
+projects[omega_tools][version] = "3.0-rc4"
+projects[omega_tools][subdir] = "contrib"
+
 ; Themes
 
 projects[rubik][version] = "4.0-beta8"
