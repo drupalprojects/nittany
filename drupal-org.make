@@ -145,6 +145,9 @@ projects[rules][subdir] = "contrib"
 projects[omega_tools][version] = "3.0-rc4"
 projects[omega_tools][subdir] = "contrib"
 
+projects[hidden_nodes][version] = "1.x-dev"
+projects[hidden_nodes][subdir] = "contrib"
+
 ; Themes
 
 projects[rubik][version] = "4.0-beta8"
