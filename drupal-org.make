@@ -139,6 +139,9 @@ projects[taxonomy_access][subdir] = "contrib"
 projects[themekey][version] = "2.2"
 projects[themekey][subdir] = "contrib"
 
+projects[rules][version] = "2.1"
+projects[rules][subdir] = "contrib"
+
 ; Themes
 
 projects[rubik][version] = "4.0-beta8"

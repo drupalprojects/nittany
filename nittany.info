@@ -85,5 +85,7 @@ dependencies[] = "views_slideshow"
 ; Printer, e-mail and PDF
 dependencies[] = "print"
 
+dependencies[] = "rules"
+
 ; Files to load
 files[] = nittany.profile
