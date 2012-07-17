@@ -104,6 +104,8 @@ dependencies[] = token
 dependencies[] = pathauto
 dependencies[] = better_formats
 dependencies[] = taxonomy_access
+; Nittany Features
+dependencies[] = nittany_base
 
 ; Files to load
 files[] = nittany.profile
