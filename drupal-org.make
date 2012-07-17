@@ -4,9 +4,6 @@ api = 2
 
 ; Modules
 
-projects[admin][version] = "2.0-beta3"
-projects[admin][subdir] = "contrib"
-
 projects[advanced_help][version] = "1.0"
 projects[advanced_help][subdir] = "contrib"
 
@@ -139,14 +136,14 @@ projects[taxonomy_access][subdir] = "contrib"
 projects[themekey][version] = "2.2"
 projects[themekey][subdir] = "contrib"
 
-projects[rules][version] = "2.1"
-projects[rules][subdir] = "contrib"
-
 projects[omega_tools][version] = "3.0-rc4"
 projects[omega_tools][subdir] = "contrib"
 
 projects[hidden_nodes][version] = "1.x-dev"
 projects[hidden_nodes][subdir] = "contrib"
+
+projects[profiler_builder][version] = "1.x-dev"
+projects[profiler_builder][subdir] = "contrib"
 
 ; Themes
 
