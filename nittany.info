@@ -2,91 +2,108 @@
 name = "Nittany"
 description = "Distribution created for learning about Drupal through hands on activities"
 core = "7.x"
-; Core projects to install by default
-dependencies[] = "block"
-dependencies[] = "color"
-dependencies[] = "comment"
-dependencies[] = "contextual"
-dependencies[] = "dashboard"
-dependencies[] = "help"
-dependencies[] = "image"
-dependencies[] = "list"
-dependencies[] = "menu"
-dependencies[] = "number"
-dependencies[] = "options"
-dependencies[] = "path"
-dependencies[] = "taxonomy"
-dependencies[] = "dblog"
-dependencies[] = "search"
-dependencies[] = "shortcut"
-dependencies[] = "toolbar"
-dependencies[] = "overlay"
-dependencies[] = "field_ui"
-dependencies[] = "file"
-dependencies[] = "rdf"
-
-; Developer best practices
-dependencies[] = "coder"
-dependencies[] = "devel"
-; Nittany specific ones
-dependencies[] = "delta"
-dependencies[] = "workbench"
-dependencies[] = "taxonomy_menu"
-dependencies[] = "taxonomy_access"
-dependencies[] = "themekey"
-; Administration
-dependencies[] = "admin"
-dependencies[] = "model"
-dependencies[] = "entity"
-
-; Chaos tool suite
-dependencies[] = "ctools"
+; Core
+dependencies[] = block
+dependencies[] = color
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = field
+dependencies[] = field_sql_storage
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = filter
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = node
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = rdf
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = system
+dependencies[] = taxonomy
+dependencies[] = text
+dependencies[] = toolbar
+dependencies[] = update
+dependencies[] = user
+dependencies[] = dblog
+dependencies[] = overlay
+; Permissions
+dependencies[] = hidden_nodes
+; Development
+dependencies[] = coder
+dependencies[] = coder_review
+dependencies[] = profiler_builder
+dependencies[] = devel
 ; Context
-dependencies[] = "context"
+dependencies[] = context
+dependencies[] = context_ui
+; Chaos tool suite
+dependencies[] = ctools
 ; Date/Time
-dependencies[] = "date"
-dependencies[] = "date_api"
-; Features
-dependencies[] = "features"
-; Token
-dependencies[] = "token"
-; Libraries API
-dependencies[] = "libraries"
-; jQuery Update
-dependencies[] = "jquery_update"
-; Contrib
-dependencies[] = "strongarm"
-dependencies[] = "hidden_nodes"
-; Administration
-dependencies[] = "module_filter"
-; CCK
-dependencies[] = "masquerade"
-dependencies[] = "advanced_help"
-dependencies[] = "backup_migrate"
-dependencies[] = "htmlpurifier"
-dependencies[] = "imce"
-dependencies[] = "imce_crop"
-dependencies[] = "job_scheduler"
-dependencies[] = "options_element"
-dependencies[] = "stringoverrides"
-dependencies[] = "pathauto"
-dependencies[] = "better_formats"
+dependencies[] = date
+dependencies[] = date_api
+dependencies[] = date_popup
+dependencies[] = date_views
+; Theme Tools
+dependencies[] = delta
+dependencies[] = delta_blocks
+dependencies[] = delta_color
+dependencies[] = delta_ui
+dependencies[] = omega_tools
+; Fields
+dependencies[] = entityreference
+dependencies[] = field_group
+; Media
+dependencies[] = imce
+dependencies[] = imce_crop
 ; User interface
-dependencies[] = "ckeditor_link"
-dependencies[] = "imce_wysiwyg"
-dependencies[] = "wysiwyg"
-dependencies[] = "wysiwyg_template"
-dependencies[] = "nodeformcols"
+dependencies[] = imce_wysiwyg
+dependencies[] = jquery_update
+dependencies[] = wysiwyg
+dependencies[] = wysiwyg_template
+dependencies[] = ckeditor_link
+; Printer, email and PDF versions
+dependencies[] = print
+; Taxonomy Menu
+dependencies[] = taxonomy_menu
+; ThemeKey
+dependencies[] = themekey
+dependencies[] = themekey_ui
 ; Views
-dependencies[] = "views"
-dependencies[] = "views_bulk_operations"
-dependencies[] = "views_fluid_grid"
-dependencies[] = "views_slideshow"
-; Printer, e-mail and PDF
-dependencies[] = "print"
-
-dependencies[] = "rules"
-dependencies[] = "omega_tools"
+dependencies[] = views_bulk_operations
+dependencies[] = views_fluid_grid
+dependencies[] = views_slideshow
+dependencies[] = views_ui
+dependencies[] = views
+; Workbench
+dependencies[] = workbench
+; Node form columns
+dependencies[] = nodeformcols
+; Features
+dependencies[] = features
+; Other
+dependencies[] = strongarm
+dependencies[] = masquerade
+dependencies[] = advanced_help
+dependencies[] = backup_migrate
+dependencies[] = entity
+dependencies[] = entity_token
+dependencies[] = htmlpurifier
+dependencies[] = job_scheduler
+dependencies[] = libraries
+dependencies[] = model
+dependencies[] = module_filter
+dependencies[] = options_element
+dependencies[] = stringoverrides
+dependencies[] = token
+dependencies[] = pathauto
+dependencies[] = better_formats
+dependencies[] = taxonomy_access
 
 ; Files to load
 files[] = nittany.profile
