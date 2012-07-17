@@ -23,17 +23,19 @@ dependencies[] = options
 dependencies[] = path
 dependencies[] = rdf
 dependencies[] = search
-dependencies[] = shortcut
 dependencies[] = system
 dependencies[] = taxonomy
 dependencies[] = text
-dependencies[] = toolbar
 dependencies[] = update
 dependencies[] = user
 dependencies[] = dblog
 dependencies[] = overlay
 ; Permissions
 dependencies[] = hidden_nodes
+; Administration
+dependencies[] = admin_devel
+dependencies[] = admin_menu
+dependencies[] = admin_menu_toolbar
 ; Development
 dependencies[] = coder
 dependencies[] = coder_review
@@ -67,6 +69,8 @@ dependencies[] = jquery_update
 dependencies[] = wysiwyg
 dependencies[] = wysiwyg_template
 dependencies[] = ckeditor_link
+; Features
+dependencies[] = features
 ; Printer, email and PDF versions
 dependencies[] = print
 ; Taxonomy Menu
@@ -84,13 +88,12 @@ dependencies[] = views
 dependencies[] = workbench
 ; Node form columns
 dependencies[] = nodeformcols
-; Features
-dependencies[] = features
 ; Other
 dependencies[] = strongarm
 dependencies[] = masquerade
 dependencies[] = advanced_help
 dependencies[] = backup_migrate
+dependencies[] = diff
 dependencies[] = entity
 dependencies[] = entity_token
 dependencies[] = htmlpurifier
@@ -104,8 +107,6 @@ dependencies[] = token
 dependencies[] = pathauto
 dependencies[] = better_formats
 dependencies[] = taxonomy_access
+
 ; Nittany Features
 dependencies[] = nittany_base
-
-; Files to load
-files[] = nittany.profile

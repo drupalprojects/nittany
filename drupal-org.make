@@ -7,6 +7,12 @@ api = 2
 projects[advanced_help][version] = "1.0"
 projects[advanced_help][subdir] = "contrib"
 
+projects[diff][version] = "2.0"
+projects[diff][subdir] = "contrib"
+
+projects[admin_menu][version] = "3.0-rc3"
+projects[admin_menu][subdir] = "contrib"
+
 projects[ctools][version] = "1.0"
 projects[ctools][subdir] = "contrib"
 
