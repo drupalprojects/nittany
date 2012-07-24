@@ -139,7 +139,7 @@ projects[taxonomy_menu][subdir] = "contrib"
 projects[taxonomy_access][version] = "1.0-rc1"
 projects[taxonomy_access][subdir] = "contrib"
 
-projects[themekey][version] = "2.2"
+projects[themekey][version] = "2.3"
 projects[themekey][subdir] = "contrib"
 
 projects[omega_tools][version] = "3.0-rc4"
