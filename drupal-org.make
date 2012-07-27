@@ -25,7 +25,7 @@ projects[context][subdir] = "contrib"
 projects[devel][version] = "1.3"
 projects[devel][subdir] = "contrib"
 
-projects[features][version] = "1.0-rc3"
+projects[features][version] = "1.0"
 projects[features][subdir] = "contrib"
 
 projects[module_filter][version] = "1.7"
@@ -121,7 +121,7 @@ projects[wysiwyg_template][subdir] = "contrib"
 projects[htmlpurifier][version] = "2.x-dev"
 projects[htmlpurifier][subdir] = "contrib"
 
-projects[delta][version] = "3.0-beta10"
+projects[delta][version] = "3.0-beta11"
 projects[delta][subdir] = "contrib"
 
 projects[workbench][version] = "1.1"
