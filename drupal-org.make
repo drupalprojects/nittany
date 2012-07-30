@@ -127,13 +127,19 @@ projects[delta][subdir] = "contrib"
 projects[workbench][version] = "1.1"
 projects[workbench][subdir] = "contrib"
 
+projects[workbench_moderation][version] = "1.2"
+projects[workbench_moderation][subdir] = "contrib"
+
+projects[block_term][version] = "1.x-dev"
+projects[block_term][subdir] = "contrib"
+
 projects[date][version] = "2.5"
 projects[date][subdir] = "contrib"
 
 projects[jquery_update][version] = "2.2"
 projects[jquery_update][subdir] = "contrib"
 
-projects[taxonomy_menu][version] = "1.2"
+projects[taxonomy_menu][version] = "1.3"
 projects[taxonomy_menu][subdir] = "contrib"
 
 projects[taxonomy_access][version] = "1.0-rc1"

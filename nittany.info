@@ -86,6 +86,7 @@ dependencies[] = views_ui
 dependencies[] = views
 ; Workbench
 dependencies[] = workbench
+dependencies[] = workbench_moderation
 ; Node form columns
 dependencies[] = nodeformcols
 ; Other
@@ -107,6 +108,6 @@ dependencies[] = token
 dependencies[] = pathauto
 dependencies[] = better_formats
 dependencies[] = taxonomy_access
-
+dependencies[] = block_term
 ; Nittany Features
 dependencies[] = nittany_base
