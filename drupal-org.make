@@ -13,13 +13,13 @@ projects[diff][subdir] = "contrib"
 projects[admin_menu][version] = "3.0-rc3"
 projects[admin_menu][subdir] = "contrib"
 
-projects[ctools][version] = "1.0"
+projects[ctools][version] = "1.2"
 projects[ctools][subdir] = "contrib"
 
 projects[coder][version] = "1.0"
 projects[coder][subdir] = "contrib"
 
-projects[context][version] = "3.0-beta3"
+projects[context][version] = "3.0-beta4"
 projects[context][subdir] = "contrib"
 
 projects[devel][version] = "1.3"
@@ -31,10 +31,10 @@ projects[features][subdir] = "contrib"
 projects[module_filter][version] = "1.7"
 projects[module_filter][subdir] = "contrib"
 
-projects[pathauto][version] = "1.1"
+projects[pathauto][version] = "1.2"
 projects[pathauto][subdir] = "contrib"
 
-projects[token][version] = "1.1"
+projects[token][version] = "1.2"
 projects[token][subdir] = "contrib"
 
 projects[views][version] = "3.3"
@@ -115,7 +115,7 @@ projects[views_slideshow][subdir] = "contrib"
 projects[wysiwyg][version] = "2.1"
 projects[wysiwyg][subdir] = "contrib"
 
-projects[wysiwyg_template][version] = "2.6"
+projects[wysiwyg_template][version] = "2.7"
 projects[wysiwyg_template][subdir] = "contrib"
 
 projects[htmlpurifier][version] = "2.x-dev"
@@ -133,7 +133,7 @@ projects[workbench_moderation][subdir] = "contrib"
 projects[block_term][version] = "1.x-dev"
 projects[block_term][subdir] = "contrib"
 
-projects[date][version] = "2.5"
+projects[date][version] = "2.6"
 projects[date][subdir] = "contrib"
 
 projects[jquery_update][version] = "2.2"
