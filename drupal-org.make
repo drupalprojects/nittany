@@ -37,7 +37,7 @@ projects[pathauto][subdir] = "contrib"
 projects[token][version] = "1.2"
 projects[token][subdir] = "contrib"
 
-projects[views][version] = "3.3"
+projects[views][version] = "3.5"
 projects[views][subdir] = "contrib"
 
 projects[field_group][version] = "1.1"
@@ -118,9 +118,6 @@ projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg_template][version] = "2.7"
 projects[wysiwyg_template][subdir] = "contrib"
 
-projects[htmlpurifier][version] = "2.x-dev"
-projects[htmlpurifier][subdir] = "contrib"
-
 projects[delta][version] = "3.0-beta11"
 projects[delta][subdir] = "contrib"
 
@@ -157,6 +154,13 @@ projects[hidden_nodes][subdir] = "contrib"
 projects[profiler_builder][version] = "1.x-dev"
 projects[profiler_builder][subdir] = "contrib"
 
+projects[book_title_override][version] = "1.0-beta4"
+projects[book_title_override][subdir] = "contrib"
+
+projects[boxes][version] = "1.0"
+projects[boxes][subdir] = "contrib"
+
+
 ; Themes
 
 projects[rubik][version] = "4.0-beta8"
@@ -171,13 +175,15 @@ projects[omega][version] = "3.1"
 projects[omega][type] = "theme"
 projects[omega][subdir] = "contrib"
 
-; Libraries
-libraries[htmlpurifier][download][type] = "get"
-libraries[htmlpurifier][download][url] = "http://htmlpurifier.org/releases/htmlpurifier-4.4.0.zip"
-libraries[htmlpurifier][directory_name] = "htmlpurifier"
-libraries[htmlpurifier][type] = "library"
-libraries[htmlpurifier][destination] = "libraries"
+projects[respond][version] = "3.0-beta1"
+projects[respond][type] = "theme"
+projects[respond][subdir] = "contrib"
 
+projects[chamfer][version] = "1.x-dev"
+projects[chamfer][type] = "theme"
+projects[chamfer][subdir] = "contrib"
+
+; Libraries
 libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.3/ckeditor_3.6.3.tar.gz"
 libraries[ckeditor][directory_name] = "ckeditor"

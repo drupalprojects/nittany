@@ -97,7 +97,6 @@ dependencies[] = backup_migrate
 dependencies[] = diff
 dependencies[] = entity
 dependencies[] = entity_token
-dependencies[] = htmlpurifier
 dependencies[] = job_scheduler
 dependencies[] = libraries
 dependencies[] = model
@@ -109,5 +108,7 @@ dependencies[] = pathauto
 dependencies[] = better_formats
 dependencies[] = taxonomy_access
 dependencies[] = block_term
+dependencies[] = book_title_override
+dependencies[] = boxes
 ; Nittany Features
 dependencies[] = nittany_base
