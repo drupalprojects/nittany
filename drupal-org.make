@@ -160,6 +160,9 @@ projects[book_title_override][subdir] = "contrib"
 projects[boxes][version] = "1.0"
 projects[boxes][subdir] = "contrib"
 
+projects[tinynav][version] = "1.0-alpha1"
+projects[tinynav][subdir] = "contrib"
+
 
 ; Themes
 
@@ -179,7 +182,7 @@ projects[respond][version] = "3.0-beta1"
 projects[respond][type] = "theme"
 projects[respond][subdir] = "contrib"
 
-projects[chamfer][version] = "1.x-dev"
+projects[chamfer][version] = "1.0-beta1"
 projects[chamfer][type] = "theme"
 projects[chamfer][subdir] = "contrib"
 
