@@ -34,7 +34,7 @@ projects[module_filter][subdir] = "contrib"
 projects[pathauto][version] = "1.2"
 projects[pathauto][subdir] = "contrib"
 
-projects[token][version] = "1.2"
+projects[token][version] = "1.3"
 projects[token][subdir] = "contrib"
 
 projects[views][version] = "3.5"
@@ -88,13 +88,13 @@ projects[nodeformcols][subdir] = "contrib"
 projects[entityreference][version] = "1.0-rc3"
 projects[entityreference][subdir] = "contrib"
 
-projects[options_element][version] = "1.7"
+projects[options_element][version] = "1.8"
 projects[options_element][subdir] = "contrib"
 
 projects[prepopulate][version] = "2.x-dev"
 projects[prepopulate][subdir] = "contrib"
 
-projects[print][version] = "1.1"
+projects[print][version] = "1.2"
 projects[print][subdir] = "contrib"
 
 projects[stringoverrides][version] = "1.8"
@@ -115,7 +115,7 @@ projects[views_slideshow][subdir] = "contrib"
 projects[wysiwyg][version] = "2.1"
 projects[wysiwyg][subdir] = "contrib"
 
-projects[wysiwyg_template][version] = "2.7"
+projects[wysiwyg_template][version] = "2.8"
 projects[wysiwyg_template][subdir] = "contrib"
 
 projects[delta][version] = "3.0-beta11"
@@ -136,7 +136,7 @@ projects[date][subdir] = "contrib"
 projects[jquery_update][version] = "2.2"
 projects[jquery_update][subdir] = "contrib"
 
-projects[taxonomy_menu][version] = "1.3"
+projects[taxonomy_menu][version] = "1.4"
 projects[taxonomy_menu][subdir] = "contrib"
 
 projects[taxonomy_access][version] = "1.0-rc1"
@@ -160,9 +160,11 @@ projects[book_title_override][subdir] = "contrib"
 projects[boxes][version] = "1.0"
 projects[boxes][subdir] = "contrib"
 
-projects[tinynav][version] = "1.0-alpha1"
+projects[tinynav][version] = "1.0-beta1"
 projects[tinynav][subdir] = "contrib"
 
+projects[chamfer_defaults][version] = "1.0-beta1"
+projects[chamfer_defaults][subdir] = "contrib"
 
 ; Themes
 
