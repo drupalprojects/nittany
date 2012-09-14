@@ -114,5 +114,7 @@ dependencies[] = boxes
 dependencies[] = textbook
 dependencies[] = textbook_editor
 dependencies[] = textbook_templates
+; Transliteration
+dependencies[] = transliteration
 ; Nittany Features
 dependencies[] = nittany_base

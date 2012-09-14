@@ -112,7 +112,7 @@ projects[views_fluid_grid][subdir] = "contrib"
 projects[views_slideshow][version] = "3.0"
 projects[views_slideshow][subdir] = "contrib"
 
-projects[wysiwyg][version] = "2.1"
+projects[wysiwyg][version] = "2.x-dev"
 projects[wysiwyg][subdir] = "contrib"
 
 projects[wysiwyg_template][version] = "2.8"
@@ -151,7 +151,7 @@ projects[omega_tools][subdir] = "contrib"
 projects[hidden_nodes][version] = "1.x-dev"
 projects[hidden_nodes][subdir] = "contrib"
 
-projects[profiler_builder][version] = "1.x-dev"
+projects[profiler_builder][version] = "1.0-beta1"
 projects[profiler_builder][subdir] = "contrib"
 
 projects[book_title_override][version] = "1.0-beta4"
@@ -165,6 +165,12 @@ projects[tinynav][subdir] = "contrib"
 
 projects[chamfer_defaults][version] = "1.0-beta1"
 projects[chamfer_defaults][subdir] = "contrib"
+
+projects[textbook][version] = "1.0-beta1"
+projects[textbook][subdir] = "contrib"
+
+projects[transliteration][version] = "3.1"
+projects[transliteration][subdir] = "contrib"
 
 ; Themes
 
@@ -184,7 +190,7 @@ projects[respond][version] = "3.0-beta1"
 projects[respond][type] = "theme"
 projects[respond][subdir] = "contrib"
 
-projects[chamfer][version] = "1.0-beta1"
+projects[chamfer][version] = "1.0-beta2"
 projects[chamfer][type] = "theme"
 projects[chamfer][subdir] = "contrib"
 
