@@ -110,5 +110,9 @@ dependencies[] = taxonomy_access
 dependencies[] = block_term
 dependencies[] = book_title_override
 dependencies[] = boxes
+; Textbook
+dependencies[] = textbook
+dependencies[] = textbook_editor
+dependencies[] = textbook_templates
 ; Nittany Features
 dependencies[] = nittany_base
