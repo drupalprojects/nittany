@@ -166,7 +166,7 @@ projects[tinynav][subdir] = "contrib"
 projects[chamfer_defaults][version] = "1.0-beta1"
 projects[chamfer_defaults][subdir] = "contrib"
 
-projects[textbook][version] = "1.0-beta1"
+projects[textbook][version] = "1.0-beta2"
 projects[textbook][subdir] = "contrib"
 
 projects[transliteration][version] = "3.1"
