@@ -52,7 +52,7 @@ projects[autocomplete_widgets][subdir] = "contrib"
 projects[backup_migrate][version] = "2.4"
 projects[backup_migrate][subdir] = "contrib"
 
-projects[better_formats][version] = "1.x-dev"
+projects[better_formats][version] = "1.0-beta1"
 projects[better_formats][subdir] = "contrib"
 
 projects[ckeditor_link][version] = "2.2"
