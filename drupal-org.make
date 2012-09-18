@@ -43,7 +43,7 @@ projects[views][subdir] = "contrib"
 projects[field_group][version] = "1.1"
 projects[field_group][subdir] = "contrib"
 
-projects[views_bulk_operations][version] = "3.0-rc1"
+projects[views_bulk_operations][version] = "3.0"
 projects[views_bulk_operations][subdir] = "contrib"
 
 projects[autocomplete_widgets][version] = "1.0-beta2"
@@ -160,7 +160,7 @@ projects[book_title_override][subdir] = "contrib"
 projects[boxes][version] = "1.0"
 projects[boxes][subdir] = "contrib"
 
-projects[tinynav][version] = "1.0-beta1"
+projects[tinynav][version] = "1.0"
 projects[tinynav][subdir] = "contrib"
 
 projects[chamfer_defaults][version] = "1.0-beta1"
@@ -190,7 +190,7 @@ projects[respond][version] = "3.0-beta1"
 projects[respond][type] = "theme"
 projects[respond][subdir] = "contrib"
 
-projects[chamfer][version] = "1.0-beta2"
+projects[chamfer][version] = "1.0-beta3"
 projects[chamfer][type] = "theme"
 projects[chamfer][subdir] = "contrib"
 
