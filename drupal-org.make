@@ -27,7 +27,7 @@ projects[field_group][version] = "1.1"
 projects[field_group][subdir] = "contrib"
 
 ; Site Builder
-; Will be core in the future, nessecary
+; Will be core in the future, necessary 
 projects[views][version] = "3.5"
 projects[views][subdir] = "contrib"
 
@@ -224,7 +224,7 @@ projects[chamfer][type] = "theme"
 projects[chamfer][subdir] = "contrib"
 
 ; Libraries
-; Our default text editor though any others can be used
+; Our default WYSIWYG editor though any others can be used
 libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.3/ckeditor_3.6.3.tar.gz"
 libraries[ckeditor][directory_name] = "ckeditor"
