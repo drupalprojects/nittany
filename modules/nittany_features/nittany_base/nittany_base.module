@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the Nittany Base feature.
- */
-
-include_once 'nittany_base.features.inc';
