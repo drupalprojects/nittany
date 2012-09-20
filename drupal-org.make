@@ -236,11 +236,8 @@ libraries[colorpicker][download][url] = "http://www.eyecon.ro/colorpicker/colorp
 libraries[colorpicker][directory_name] = "colorpicker"
 libraries[colorpicker][type] = "library"
 libraries[colorpicker][destination] = "libraries"
-<<<<<<< HEAD
-=======
 ; Profiler install profile API
 libraries[profiler][download][type] = "get"
 libraries[profiler][download][url] = "http://ftp.drupal.org/files/projects/profiler-7.x-2.0-beta1.tar.gz"
 libraries[profiler][directory_name] = "profiler"
 libraries[profiler][type] = "library"
->>>>>>> including profiler the correct way
