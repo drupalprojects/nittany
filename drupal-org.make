@@ -47,7 +47,7 @@ projects[context_condition_theme][subdir] = "contrib"
 
 ; Usability
 ; Hide items for workflow purposes
-projects[hidden_nodes][version] = "1.0-beta4"
+projects[hidden_nodes][version] = "1.0"
 projects[hidden_nodes][subdir] = "contrib"
 ; Allows you to rename parts of the drupal interface to improve content author UX
 projects[stringoverrides][version] = "1.8"
@@ -172,7 +172,7 @@ projects[tinynav][version] = "1.0"
 projects[devel][version] = "1.3"
 projects[devel][subdir] = "contrib"
 ; Code development toolkit
-projects[coder][version] = "1.0"
+projects[coder][version] = "1.1"
 projects[coder][subdir] = "contrib"
 ; Pull in data
 projects[feeds][version] = "2.0-alpha5"
