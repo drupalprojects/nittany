@@ -8,7 +8,11 @@
 function system_form_install_configure_form_alter(&$form, $form_state) {
   // Pre-populate the site name with the server name.
   $form['site_information']['site_name']['#default_value'] = 'Nittany site';
-  $form['server_settings']['site_default_country']['#default_value'] = 'US';	
+  $form['server_settings']['site_default_country']['#default_value'] = 'US';
+  $form['server_settings']['#collapsible'] = TRUE;
+  $form['server_settings']['#collapsed'] = TRUE;
+  $form['update_notifications']['#collapsible'] = TRUE;
+  $form['update_notifications']['#collapsed'] = TRUE;
 }
 
 /**
