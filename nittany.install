@@ -328,7 +328,7 @@ function nittany_install() {
   // Create a default role for site administrators, with all available permissions assigned.
   $admin_role = new stdClass();
   $admin_role->name = 'administrator';
-  $admin_role->weight = 2;
+  $admin_role->weight = 10;
   user_role_save($admin_role);
   user_role_grant_permissions($admin_role->rid, array_keys(module_invoke_all('permission')));
   // Set this as the administrator role.
@@ -348,9 +348,7 @@ function nittany_install() {
   menu_link_save($item);
 
   // From shortcut.install, add shortcuts to the default set on install
-  $shortcut_set = new stdClass();
-  $shortcut_set->title = st('Default');
-  $shortcut_set->set_name = 'shortcut-set-1';
+  $shortcut_set = shortcut_set_load(SHORTCUT_DEFAULT_SET_NAME);
   $shortcut_set->links = array(
     array(
       'link_path' => 'admin/appearance/settings/chamfer', 

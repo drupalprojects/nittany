@@ -20,7 +20,7 @@ projects[date][subdir] = "contrib"
 projects[entity][version] = "1.0-rc3"
 projects[entity][subdir] = "contrib"
 ; make fields that reference entities
-projects[entityreference][version] = "1.0-rc3"
+projects[entityreference][version] = "1.0-rc5"
 projects[entityreference][subdir] = "contrib"
 ; visual styling of groupings of fields
 projects[field_group][version] = "1.1"
@@ -82,7 +82,7 @@ projects[wysiwyg_template][subdir] = "contrib"
 projects[ckeditor_link][version] = "2.2"
 projects[ckeditor_link][subdir] = "contrib"
 ; Provides clean styles, accessibility minded input formatter, default editor
-projects[textbook][version] = "1.0-beta2"
+projects[textbook][version] = "1.0-beta3"
 projects[textbook][subdir] = "contrib"
 ; Better use of input formats
 projects[better_formats][version] = "1.0-beta1"
@@ -121,7 +121,7 @@ projects[strongarm][subdir] = "contrib"
 projects[libraries][version] = "2.0"
 projects[libraries][subdir] = "contrib"
 ; user interface to token
-projects[token][version] = "1.3"
+projects[token][version] = "1.4"
 projects[token][subdir] = "contrib"
 ; Renames file names appropriately when working with wonky chars
 projects[transliteration][version] = "3.1"
@@ -167,7 +167,7 @@ projects[field_collection][version] = "1.0-beta4"
 projects[field_collection][subdir] = "contrib"
 ; Provides a responsive, select based version of menu for mobile, d.o. issues are currently forcing a specific file checkout to be required
 projects[tinynav][subdir] = "contrib"
-projects[tinynav][version] = "1.0"
+projects[tinynav][version] = "1.1"
 ; Developer toolkit
 projects[devel][version] = "1.3"
 projects[devel][subdir] = "contrib"
@@ -199,7 +199,7 @@ projects[webform_validation][subdir] = "contrib"
 projects[themekey][version] = "2.3"
 projects[themekey][subdir] = "contrib"
 ; Helps with site migration / building make / info files
-projects[profiler_builder][version] = "1.0-beta1"
+projects[profiler_builder][version] = "1.0-beta2"
 projects[profiler_builder][subdir] = "contrib"
 ; Provides a field that can use a color widget
 projects[jquery_colorpicker][version] = "1.0-rc1"
@@ -219,7 +219,7 @@ projects[omega][version] = "3.1"
 projects[omega][type] = "theme"
 projects[omega][subdir] = "contrib"
 ; chamfer, theme made by e-learning institute as an accessible responsive omega-based theme
-projects[chamfer][version] = "1.0-beta4"
+projects[chamfer][version] = "1.0-beta5"
 projects[chamfer][type] = "theme"
 projects[chamfer][subdir] = "contrib"
 
