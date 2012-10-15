@@ -175,10 +175,10 @@ projects[devel][subdir] = "contrib"
 projects[coder][version] = "1.1"
 projects[coder][subdir] = "contrib"
 ; Pull in data
-projects[feeds][version] = "2.0-alpha5"
+projects[feeds][version] = "2.0-alpha6"
 projects[feeds][subdir] = "contrib"
 ; modify data before adding
-projects[feeds_tamper][version] = "1.0-beta3"
+projects[feeds_tamper][version] = "1.0-beta4"
 projects[feeds_tamper][subdir] = "contrib"
 ; walk XML documents
 projects[feeds_xpathparser][version] = "1.0-beta3"
@@ -198,12 +198,24 @@ projects[webform_validation][subdir] = "contrib"
 ; Much more flexibility then taxonomy theme
 projects[themekey][version] = "2.3"
 projects[themekey][subdir] = "contrib"
+; Responsive videos
+projects[fitvids][version] = "1.8"
+projects[fitvids][subdir] = "contrib"
 ; Helps with site migration / building make / info files
 projects[profiler_builder][version] = "1.0-beta2"
 projects[profiler_builder][subdir] = "contrib"
 ; Provides a field that can use a color widget
 projects[jquery_colorpicker][version] = "1.0-rc1"
 projects[jquery_colorpicker][subdir] = "contrib"
+
+; Performance / scale optimizations
+; serve pages as static calls
+projects[boost][version] = "1.0-beta2"
+projects[boost][subdir] = "contrib"
+; enable faster transfer of resources
+projects[cdn][version] = "2.5"
+projects[cdn][subdir] = "contrib"
+
 
 ; Themes
 ; nice admin theme
