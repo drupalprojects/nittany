@@ -76,13 +76,13 @@ projects[imce_wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.x-dev"
 projects[wysiwyg][subdir] = "contrib"
 ; Provides reusable template support, also exportable
-projects[wysiwyg_template][version] = "2.8"
+projects[wysiwyg_template][version] = "2.9"
 projects[wysiwyg_template][subdir] = "contrib"
 ; Clean way of internally linking content
 projects[ckeditor_link][version] = "2.2"
 projects[ckeditor_link][subdir] = "contrib"
 ; Provides clean styles, accessibility minded input formatter, default editor
-projects[textbook][version] = "1.0-beta3"
+projects[textbook][version] = "1.0-rc1"
 projects[textbook][subdir] = "contrib"
 ; Better use of input formats
 projects[better_formats][version] = "1.0-beta1"
@@ -175,7 +175,7 @@ projects[devel][subdir] = "contrib"
 projects[coder][version] = "1.1"
 projects[coder][subdir] = "contrib"
 ; Pull in data
-projects[feeds][version] = "2.0-alpha6"
+projects[feeds][version] = "2.0-alpha7"
 projects[feeds][subdir] = "contrib"
 ; modify data before adding
 projects[feeds_tamper][version] = "1.0-beta4"
@@ -202,7 +202,7 @@ projects[themekey][subdir] = "contrib"
 projects[fitvids][version] = "1.8"
 projects[fitvids][subdir] = "contrib"
 ; Helps with site migration / building make / info files
-projects[profiler_builder][version] = "1.0-beta2"
+projects[profiler_builder][version] = "1.0-rc1"
 projects[profiler_builder][subdir] = "contrib"
 ; Provides a field that can use a color widget
 projects[jquery_colorpicker][version] = "1.0-rc1"
@@ -231,7 +231,7 @@ projects[omega][version] = "3.1"
 projects[omega][type] = "theme"
 projects[omega][subdir] = "contrib"
 ; chamfer, theme made by e-learning institute as an accessible responsive omega-based theme
-projects[chamfer][version] = "1.0-beta5"
+projects[chamfer][version] = "1.0-rc1"
 projects[chamfer][type] = "theme"
 projects[chamfer][subdir] = "contrib"
 
