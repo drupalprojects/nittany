@@ -73,7 +73,7 @@ projects[imce_mkdir][subdir] = "contrib"
 projects[imce_wysiwyg][version] = "1.0"
 projects[imce_wysiwyg][subdir] = "contrib"
 ; Allow for implementing any text editor
-projects[wysiwyg][version] = "2.x-dev"
+projects[wysiwyg][version] = "2.2"
 projects[wysiwyg][subdir] = "contrib"
 ; Provides reusable template support, also exportable
 projects[wysiwyg_template][version] = "2.9"
