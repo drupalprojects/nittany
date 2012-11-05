@@ -25,9 +25,6 @@ projects[entityreference][subdir] = "contrib"
 ; visual styling of groupings of fields
 projects[field_group][version] = "1.1"
 projects[field_group][subdir] = "contrib"
-; Store a link as a field
-projects[link][version] = "1.0"
-projects[link][subdir] = "contrib"
 
 ; Site Builder
 ; Will be core in the future, necessary 
@@ -156,6 +153,12 @@ projects[workbench_moderation][version] = "1.2"
 projects[workbench_moderation][subdir] = "contrib"
 
 ; --- MODULES DISABLED BY DEFAULT ---
+; Store a link as a field
+projects[link][version] = "1.0"
+projects[link][subdir] = "contrib"
+; Lightbox2 for image window boxes
+projects[lightbox2][version] = "1.0-beta1"
+projects[lightbox2][subdir] = "contrib"
 ; allows for additional processing of views and modules to take action on views
 projects[views_bulk_operations][version] = "3.0"
 projects[views_bulk_operations][subdir] = "contrib"
