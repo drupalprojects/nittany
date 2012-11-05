@@ -25,6 +25,9 @@ projects[entityreference][subdir] = "contrib"
 ; visual styling of groupings of fields
 projects[field_group][version] = "1.1"
 projects[field_group][subdir] = "contrib"
+; Store a link as a field
+projects[link][version] = "1.0"
+projects[link][subdir] = "contrib"
 
 ; Site Builder
 ; Will be core in the future, necessary 
@@ -84,6 +87,9 @@ projects[ckeditor_link][subdir] = "contrib"
 ; Provides clean styles, accessibility minded input formatter, default editor
 projects[textbook][version] = "1.0-rc1"
 projects[textbook][subdir] = "contrib"
+; Provides a button for simple adding of external video embeds
+projects[video_filter][version] = "3.0"
+projects[video_filter][subdir] = "contrib"
 ; Better use of input formats
 projects[better_formats][version] = "1.0-beta1"
 projects[better_formats][subdir] = "contrib"
@@ -93,7 +99,7 @@ projects[better_formats][subdir] = "contrib"
 projects[advanced_help][version] = "1.0"
 projects[advanced_help][subdir] = "contrib"
 ; spoof another users session for testing
-projects[masquerade][version] = "1.0-rc4"
+projects[masquerade][version] = "1.0-rc5"
 projects[masquerade][subdir] = "contrib"
 ; utility module used to get diffs between files/features/revisions/etc
 projects[diff][version] = "2.0"
@@ -202,7 +208,7 @@ projects[themekey][subdir] = "contrib"
 projects[fitvids][version] = "1.8"
 projects[fitvids][subdir] = "contrib"
 ; Helps with site migration / building make / info files
-projects[profiler_builder][version] = "1.0-rc1"
+projects[profiler_builder][version] = "1.0-rc2"
 projects[profiler_builder][subdir] = "contrib"
 ; Provides a field that can use a color widget
 projects[jquery_colorpicker][version] = "1.0-rc1"
