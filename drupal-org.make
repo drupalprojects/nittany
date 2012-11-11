@@ -61,7 +61,7 @@ projects[nodeformcols][subdir] = "contrib"
 
 ; WYSIWYG
 ; file manager for content authoring
-projects[imce][version] = "1.5"
+projects[imce][version] = "1.6"
 projects[imce][subdir] = "contrib"
 ; Ability to crop images via a jQuery widget when uploading
 projects[imce_crop][version] = "1.0"
@@ -181,7 +181,7 @@ projects[tinynav][version] = "1.1"
 projects[devel][version] = "1.3"
 projects[devel][subdir] = "contrib"
 ; Code development toolkit
-projects[coder][version] = "1.1"
+projects[coder][version] = "1.2"
 projects[coder][subdir] = "contrib"
 ; Pull in data
 projects[feeds][version] = "2.0-alpha7"
