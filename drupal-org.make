@@ -82,7 +82,7 @@ projects[wysiwyg_template][subdir] = "contrib"
 projects[ckeditor_link][version] = "2.2"
 projects[ckeditor_link][subdir] = "contrib"
 ; Provides clean styles, accessibility minded input formatter, default editor
-projects[textbook][version] = "1.0-rc1"
+projects[textbook][version] = "1.0-rc2"
 projects[textbook][subdir] = "contrib"
 ; Provides a button for simple adding of external video embeds
 projects[video_filter][version] = "3.0"
@@ -90,6 +90,9 @@ projects[video_filter][subdir] = "contrib"
 ; Better use of input formats
 projects[better_formats][version] = "1.0-beta1"
 projects[better_formats][subdir] = "contrib"
+; Better looking rendered text, especially when responsive
+projects[typogrify][version] = "1.0-rc5"
+projects[typogrify][subdir] = "contrib"
 
 ; Admin UX
 ; Prints nicer help documentation
