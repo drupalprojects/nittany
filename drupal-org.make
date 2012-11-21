@@ -20,7 +20,7 @@ projects[date][subdir] = "contrib"
 projects[entity][version] = "1.0-rc3"
 projects[entity][subdir] = "contrib"
 ; make fields that reference entities
-projects[entityreference][version] = "1.0-rc5"
+projects[entityreference][version] = "1.0"
 projects[entityreference][subdir] = "contrib"
 ; visual styling of groupings of fields
 projects[field_group][version] = "1.1"
@@ -85,7 +85,7 @@ projects[ckeditor_link][subdir] = "contrib"
 projects[textbook][version] = "1.0-rc2"
 projects[textbook][subdir] = "contrib"
 ; Provides a button for simple adding of external video embeds
-projects[video_filter][version] = "3.0"
+projects[video_filter][version] = "3.1"
 projects[video_filter][subdir] = "contrib"
 ; Better use of input formats
 projects[better_formats][version] = "1.0-beta1"
