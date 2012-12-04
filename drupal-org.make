@@ -17,7 +17,7 @@ projects[select_or_other][subdir] = "contrib"
 projects[date][version] = "2.6"
 projects[date][subdir] = "contrib"
 ; typically required at some point
-projects[entity][version] = "1.0"
+projects[entity][version] = "1.0-rc3"
 projects[entity][subdir] = "contrib"
 ; make fields that reference entities
 projects[entityreference][version] = "1.0"
@@ -163,7 +163,7 @@ projects[link][subdir] = "contrib"
 projects[lightbox2][version] = "1.0-beta1"
 projects[lightbox2][subdir] = "contrib"
 ; allows for additional processing of views and modules to take action on views
-projects[views_bulk_operations][version] = "3.1"
+projects[views_bulk_operations][version] = "3.0"
 projects[views_bulk_operations][subdir] = "contrib"
 ; get data exported from views in other formats
 projects[views_data_export][version] = "3.0-beta6"
@@ -243,7 +243,7 @@ projects[omega][version] = "3.1"
 projects[omega][type] = "theme"
 projects[omega][subdir] = "contrib"
 ; chamfer, theme made by e-learning institute as an accessible responsive omega-based theme
-projects[chamfer][version] = "1.0-rc2"
+projects[chamfer][version] = "1.0-rc1"
 projects[chamfer][type] = "theme"
 projects[chamfer][subdir] = "contrib"
 
