@@ -108,7 +108,7 @@ projects[diff][subdir] = "contrib"
 projects[module_filter][version] = "1.7"
 projects[module_filter][subdir] = "contrib"
 ; Provides block system override
-projects[context][version] = "3.0-beta4"
+projects[context][version] = "3.0-beta5"
 projects[context][subdir] = "contrib"
 ; Slices of a menu
 projects[menu_block][version] = "2.3"
