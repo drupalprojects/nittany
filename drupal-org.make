@@ -76,7 +76,7 @@ projects[imce_wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.2"
 projects[wysiwyg][subdir] = "contrib"
 ; Provides reusable template support, also exportable
-projects[wysiwyg_template][version] = "2.9"
+projects[wysiwyg_template][version] = "2.x-dev"
 projects[wysiwyg_template][subdir] = "contrib"
 ; Clean way of internally linking content
 projects[ckeditor_link][version] = "2.2"

@@ -154,7 +154,6 @@ variables[entityreference:base-tables][user][0] = 'users'
 variables[entityreference:base-tables][user][1] = 'uid'
 variables[entityreference:base-tables][wysiwyg_profile][0] = 'wysiwyg'
 variables[entityreference:base-tables][wysiwyg_profile][1] = 'format'
-variables[file_temporary_path] = '/Applications/MAMP/tmp/php'
 variables[filter_fallback_format] = 'plain_text'
 variables[imce_custom_content][imce_mkdir_content] = 1
 variables[imce_custom_process][imce_mkdir_process_profile] = 1
