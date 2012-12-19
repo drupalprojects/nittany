@@ -102,7 +102,7 @@ projects[advanced_help][subdir] = "contrib"
 projects[masquerade][version] = "1.0-rc5"
 projects[masquerade][subdir] = "contrib"
 ; utility module used to get diffs between files/features/revisions/etc
-projects[diff][version] = "2.0"
+projects[diff][version] = "3.2"
 projects[diff][subdir] = "contrib"
 ; usability for admins on module page
 projects[module_filter][version] = "1.7"
