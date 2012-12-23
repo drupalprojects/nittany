@@ -108,7 +108,7 @@ projects[diff][subdir] = "contrib"
 projects[module_filter][version] = "1.7"
 projects[module_filter][subdir] = "contrib"
 ; Provides block system override
-projects[context][version] = "3.0-beta5"
+projects[context][version] = "3.0-beta6"
 projects[context][subdir] = "contrib"
 ; Slices of a menu
 projects[menu_block][version] = "2.3"
@@ -156,6 +156,12 @@ projects[workbench_moderation][version] = "1.2"
 projects[workbench_moderation][subdir] = "contrib"
 
 ; --- MODULES DISABLED BY DEFAULT ---
+; Solid list for improving SEO
+projects[seo_checklist][version] = "4.0"
+projects[seo_checklist][subdir] = "contrib"
+; Required for SEO checklist
+projects[checklistapi][version] = "1.0-beta4"
+projects[checklistapi][subdir] = "contrib"
 ; Store a link as a field
 projects[link][version] = "1.0"
 projects[link][subdir] = "contrib"
