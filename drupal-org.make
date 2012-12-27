@@ -17,7 +17,7 @@ projects[select_or_other][subdir] = "contrib"
 projects[date][version] = "2.6"
 projects[date][subdir] = "contrib"
 ; typically required at some point
-projects[entity][version] = "1.0-rc3"
+projects[entity][version] = "1.0"
 projects[entity][subdir] = "contrib"
 ; make fields that reference entities
 projects[entityreference][version] = "1.0"
@@ -181,7 +181,7 @@ projects[menu_attributes][subdir] = "contrib"
 projects[jquery_update][version] = "2.2"
 projects[jquery_update][subdir] = "contrib"
 ; composite field
-projects[field_collection][version] = "1.0-beta4"
+projects[field_collection][version] = "1.0-beta5"
 projects[field_collection][subdir] = "contrib"
 ; Provides a responsive, select based version of menu for mobile, d.o. issues are currently forcing a specific file checkout to be required
 projects[tinynav][subdir] = "contrib"
