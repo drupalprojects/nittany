@@ -79,7 +79,7 @@ projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg_template][version] = "2.x-dev"
 projects[wysiwyg_template][subdir] = "contrib"
 ; Clean way of internally linking content
-projects[ckeditor_link][version] = "2.2"
+projects[ckeditor_link][version] = "2.3"
 projects[ckeditor_link][subdir] = "contrib"
 ; Provides clean styles, accessibility minded input formatter, default editor
 projects[textbook][version] = "1.0-rc2"
