@@ -47,13 +47,13 @@ projects[context_condition_theme][subdir] = "contrib"
 
 ; Usability
 ; Hide items for workflow purposes
-projects[hidden_nodes][version] = "1.0"
+projects[hidden_nodes][version] = "1.1"
 projects[hidden_nodes][subdir] = "contrib"
 ; Allows you to rename parts of the drupal interface to improve content author UX
 projects[stringoverrides][version] = "1.8"
 projects[stringoverrides][subdir] = "contrib"
 ; Boxes replaces custom blocks and are exportable as configuration so are prefered
-projects[boxes][version] = "1.0"
+projects[boxes][version] = "1.1"
 projects[boxes][subdir] = "contrib"
 ; Lets you reposition things like vertical tabs in node form, nice with rubik
 projects[nodeformcols][version] = "1.x-dev"
@@ -61,7 +61,7 @@ projects[nodeformcols][subdir] = "contrib"
 
 ; WYSIWYG
 ; file manager for content authoring
-projects[imce][version] = "1.6"
+projects[imce][version] = "1.7"
 projects[imce][subdir] = "contrib"
 ; Ability to crop images via a jQuery widget when uploading
 projects[imce_crop][version] = "1.0"
@@ -117,7 +117,7 @@ projects[menu_block][subdir] = "contrib"
 projects[admin_theme][version] = "1.0"
 projects[admin_theme][subdir] = "contrib"
 ; Administrative UX
-projects[admin_menu][version] = "3.0-rc3"
+projects[admin_menu][version] = "3.0-rc4"
 projects[admin_menu][subdir] = "contrib"
 
 ; APIs
@@ -149,10 +149,10 @@ projects[views_fluid_grid][subdir] = "contrib"
 projects[pathauto][version] = "1.2"
 projects[pathauto][subdir] = "contrib"
 ; Workflow management
-projects[workbench][version] = "1.1"
+projects[workbench][version] = "1.2"
 projects[workbench][subdir] = "contrib"
 ; Workflow management
-projects[workbench_moderation][version] = "1.2"
+projects[workbench_moderation][version] = "1.3"
 projects[workbench_moderation][subdir] = "contrib"
 
 ; --- MODULES DISABLED BY DEFAULT ---
@@ -220,10 +220,10 @@ projects[themekey][subdir] = "contrib"
 projects[fitvids][version] = "1.8"
 projects[fitvids][subdir] = "contrib"
 ; Helps with site migration / building make / info files
-projects[profiler_builder][version] = "1.0-rc2"
+projects[profiler_builder][version] = "1.0-rc3"
 projects[profiler_builder][subdir] = "contrib"
 ; Provides a field that can use a color widget
-projects[jquery_colorpicker][version] = "1.0-rc1"
+projects[jquery_colorpicker][version] = "1.0-rc2"
 projects[jquery_colorpicker][subdir] = "contrib"
 
 ; Performance / scale optimizations
