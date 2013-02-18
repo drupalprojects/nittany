@@ -157,13 +157,13 @@ projects[workbench_moderation][subdir] = "contrib"
 
 ; --- MODULES DISABLED BY DEFAULT ---
 ; Solid list for improving SEO
-projects[seo_checklist][version] = "4.0"
+projects[seo_checklist][version] = "4.1"
 projects[seo_checklist][subdir] = "contrib"
 ; Required for SEO checklist
 projects[checklistapi][version] = "1.0-beta4"
 projects[checklistapi][subdir] = "contrib"
 ; Store a link as a field
-projects[link][version] = "1.0"
+projects[link][version] = "1.1"
 projects[link][subdir] = "contrib"
 ; Lightbox2 for image window boxes
 projects[lightbox2][version] = "1.0-beta1"
@@ -178,7 +178,7 @@ projects[views_data_export][subdir] = "contrib"
 projects[menu_attributes][version] = "1.0-rc2"
 projects[menu_attributes][subdir] = "contrib"
 ; javascript upgrade
-projects[jquery_update][version] = "2.2"
+projects[jquery_update][version] = "2.3"
 projects[jquery_update][subdir] = "contrib"
 ; composite field
 projects[field_collection][version] = "1.0-beta5"
