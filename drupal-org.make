@@ -91,7 +91,7 @@ projects[video_filter][subdir] = "contrib"
 projects[better_formats][version] = "1.0-beta1"
 projects[better_formats][subdir] = "contrib"
 ; Better looking rendered text, especially when responsive
-projects[typogrify][version] = "1.0-rc5"
+projects[typogrify][version] = "1.0-rc6"
 projects[typogrify][subdir] = "contrib"
 
 ; Admin UX
@@ -127,7 +127,7 @@ projects[strongarm][subdir] = "contrib"
 projects[libraries][version] = "2.0"
 projects[libraries][subdir] = "contrib"
 ; user interface to token
-projects[token][version] = "1.4"
+projects[token][version] = "1.5"
 projects[token][subdir] = "contrib"
 ; Renames file names appropriately when working with wonky chars
 projects[transliteration][version] = "3.1"
@@ -217,7 +217,7 @@ projects[webform_validation][subdir] = "contrib"
 projects[themekey][version] = "2.3"
 projects[themekey][subdir] = "contrib"
 ; Responsive videos
-projects[fitvids][version] = "1.8"
+projects[fitvids][version] = "1.9"
 projects[fitvids][subdir] = "contrib"
 ; Helps with site migration / building make / info files
 projects[profiler_builder][version] = "1.0-rc3"
