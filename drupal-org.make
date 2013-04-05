@@ -28,7 +28,7 @@ projects[field_group][subdir] = "contrib"
 
 ; Site Builder
 ; Will be core in the future, necessary 
-projects[views][version] = "3.5"
+projects[views][version] = "3.6"
 projects[views][subdir] = "contrib"
 
 ; Theme
@@ -133,7 +133,7 @@ projects[token][subdir] = "contrib"
 projects[transliteration][version] = "3.1"
 projects[transliteration][subdir] = "contrib"
 ; needed for views / features / everything else
-projects[ctools][version] = "1.2"
+projects[ctools][version] = "1.3"
 projects[ctools][subdir] = "contrib"
 ; deployability of functionality
 projects[features][version] = "1.0"
@@ -185,7 +185,7 @@ projects[field_collection][version] = "1.0-beta5"
 projects[field_collection][subdir] = "contrib"
 ; Provides a responsive, select based version of menu for mobile, d.o. issues are currently forcing a specific file checkout to be required
 projects[tinynav][subdir] = "contrib"
-projects[tinynav][version] = "1.1"
+projects[tinynav][version] = "1.2"
 ; Developer toolkit
 projects[devel][version] = "1.3"
 projects[devel][subdir] = "contrib"
@@ -220,7 +220,7 @@ projects[themekey][subdir] = "contrib"
 projects[fitvids][version] = "1.9"
 projects[fitvids][subdir] = "contrib"
 ; Helps with site migration / building make / info files
-projects[profiler_builder][version] = "1.0-rc3"
+projects[profiler_builder][version] = "1.0-rc4"
 projects[profiler_builder][subdir] = "contrib"
 ; Provides a field that can use a color widget
 projects[jquery_colorpicker][version] = "1.0-rc2"
@@ -231,7 +231,7 @@ projects[jquery_colorpicker][subdir] = "contrib"
 projects[boost][version] = "1.0-beta2"
 projects[boost][subdir] = "contrib"
 ; enable faster transfer of resources
-projects[cdn][version] = "2.5"
+projects[cdn][version] = "2.6"
 projects[cdn][subdir] = "contrib"
 
 
