@@ -124,7 +124,7 @@ projects[admin_menu][subdir] = "contrib"
 projects[strongarm][version] = "2.0"
 projects[strongarm][subdir] = "contrib"
 ; find 3rd party libraries
-projects[libraries][version] = "2.0"
+projects[libraries][version] = "2.1"
 projects[libraries][subdir] = "contrib"
 ; user interface to token
 projects[token][version] = "1.5"
@@ -211,7 +211,7 @@ projects[menu_breadcrumb][subdir] = "contrib"
 projects[webform_conditional][version] = "1.0-beta1"
 projects[webform_conditional][subdir] = "contrib"
 ; Validation webform options
-projects[webform_validation][version] = "1.1"
+projects[webform_validation][version] = "1.2"
 projects[webform_validation][subdir] = "contrib"
 ; Much more flexibility then taxonomy theme
 projects[themekey][version] = "2.3"
