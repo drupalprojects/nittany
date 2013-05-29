@@ -8,16 +8,16 @@ api = 2
 projects[webform][version] = "3.18"
 projects[webform][subdir] = "contrib"
 ; makes it easier to define select lists in fields
-projects[options_element][version] = "1.8"
+projects[options_element][version] = "1.9"
 projects[options_element][subdir] = "contrib"
 ; Special field for checkboxes to have other option with textfield
-projects[select_or_other][version] = "2.15"
+projects[select_or_other][version] = "2.17"
 projects[select_or_other][subdir] = "contrib"
 ; adds a field for storing dates more easily
 projects[date][version] = "2.6"
 projects[date][subdir] = "contrib"
 ; typically required at some point
-projects[entity][version] = "1.0"
+projects[entity][version] = "1.1"
 projects[entity][subdir] = "contrib"
 ; make fields that reference entities
 projects[entityreference][version] = "1.0"
@@ -28,7 +28,7 @@ projects[field_group][subdir] = "contrib"
 
 ; Site Builder
 ; Will be core in the future, necessary 
-projects[views][version] = "3.6"
+projects[views][version] = "3.7"
 projects[views][subdir] = "contrib"
 
 ; Theme
@@ -47,7 +47,7 @@ projects[context_condition_theme][subdir] = "contrib"
 
 ; Usability
 ; Hide items for workflow purposes
-projects[hidden_nodes][version] = "1.1"
+projects[hidden_nodes][version] = "1.x-dev"
 projects[hidden_nodes][subdir] = "contrib"
 ; Allows you to rename parts of the drupal interface to improve content author UX
 projects[stringoverrides][version] = "1.8"
@@ -82,7 +82,7 @@ projects[wysiwyg_template][subdir] = "contrib"
 projects[ckeditor_link][version] = "2.3"
 projects[ckeditor_link][subdir] = "contrib"
 ; Provides clean styles, accessibility minded input formatter, default editor
-projects[textbook][version] = "1.0-rc2"
+projects[textbook][version] = "1.x-dev"
 projects[textbook][subdir] = "contrib"
 ; Provides a button for simple adding of external video embeds
 projects[video_filter][version] = "3.1"
@@ -139,7 +139,7 @@ projects[ctools][subdir] = "contrib"
 projects[features][version] = "1.0"
 projects[features][subdir] = "contrib"
 ; Best practice
-projects[backup_migrate][version] = "2.4"
+projects[backup_migrate][version] = "2.7"
 projects[backup_migrate][subdir] = "contrib"
 ; Responsive display of a grid
 projects[views_fluid_grid][version] = "3.0"
@@ -154,11 +154,17 @@ projects[workbench][subdir] = "contrib"
 ; Workflow management
 projects[workbench_moderation][version] = "1.3"
 projects[workbench_moderation][subdir] = "contrib"
+; Simple, effective Field Validation
+projects[field_validation][version] = "2.3"
+projects[field_validation][subdir] = "contrib"
 
 ; --- MODULES DISABLED BY DEFAULT ---
 ; Solid list for improving SEO
 projects[seo_checklist][version] = "4.1"
 projects[seo_checklist][subdir] = "contrib"
+; UUID, core in D8
+projects[uuid][version] = "1.x-dev"
+projects[uuid][subdir] = "contrib"
 ; Required for SEO checklist
 projects[checklistapi][version] = "1.0-beta4"
 projects[checklistapi][subdir] = "contrib"
@@ -193,13 +199,13 @@ projects[devel][subdir] = "contrib"
 projects[coder][version] = "1.2"
 projects[coder][subdir] = "contrib"
 ; Pull in data
-projects[feeds][version] = "2.0-alpha7"
+projects[feeds][version] = "2.0-alpha8"
 projects[feeds][subdir] = "contrib"
 ; modify data before adding
 projects[feeds_tamper][version] = "1.0-beta4"
 projects[feeds_tamper][subdir] = "contrib"
 ; walk XML documents
-projects[feeds_xpathparser][version] = "1.0-beta3"
+projects[feeds_xpathparser][version] = "1.0-beta4"
 projects[feeds_xpathparser][subdir] = "contrib"
 ; Required by Feeds
 projects[job_scheduler][version] = "2.0-alpha3"
