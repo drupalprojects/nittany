@@ -90,6 +90,9 @@ dependencies[] = wysiwyg
 dependencies[] = wysiwyg_template
 dependencies[] = ckeditor_link
 
+; Field Validation
+dependencies[] = field_validation
+dependencies[] = field_validation_ui
 ; Textbook
 dependencies[] = textbook
 dependencies[] = textbook_editor
