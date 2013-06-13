@@ -5,7 +5,7 @@ api = 2
 ; --- MODULES ENABLED BY DEFAULT ---
 ; Fields
 ; webform useful for building online forms / gathering data
-projects[webform][version] = "3.18"
+projects[webform][version] = "3.19"
 projects[webform][subdir] = "contrib"
 ; makes it easier to define select lists in fields
 projects[options_element][version] = "1.9"
