@@ -11,7 +11,7 @@ projects[webform][subdir] = "contrib"
 projects[options_element][version] = "1.9"
 projects[options_element][subdir] = "contrib"
 ; Special field for checkboxes to have other option with textfield
-projects[select_or_other][version] = "2.17"
+projects[select_or_other][version] = "2.18"
 projects[select_or_other][subdir] = "contrib"
 ; adds a field for storing dates more easily
 projects[date][version] = "2.6"
@@ -136,7 +136,7 @@ projects[transliteration][subdir] = "contrib"
 projects[ctools][version] = "1.3"
 projects[ctools][subdir] = "contrib"
 ; deployability of functionality
-projects[features][version] = "1.0"
+projects[features][version] = "2.0-rc1"
 projects[features][subdir] = "contrib"
 ; Best practice
 projects[backup_migrate][version] = "2.7"
@@ -220,10 +220,10 @@ projects[webform_conditional][subdir] = "contrib"
 projects[webform_validation][version] = "1.2"
 projects[webform_validation][subdir] = "contrib"
 ; Much more flexibility then taxonomy theme
-projects[themekey][version] = "2.3"
+projects[themekey][version] = "2.5"
 projects[themekey][subdir] = "contrib"
 ; Responsive videos
-projects[fitvids][version] = "1.9"
+projects[fitvids][version] = "1.12"
 projects[fitvids][subdir] = "contrib"
 ; Helps with site migration / building make / info files
 projects[profiler_builder][version] = "1.0-rc4"

@@ -101,9 +101,6 @@ dependencies[] = textbook_templates
 dependencies[] = views_fluid_grid
 dependencies[] = views_ui
 dependencies[] = views
-; Workbench
-dependencies[] = workbench
-dependencies[] = workbench_moderation
 ; Node form columns
 dependencies[] = nodeformcols
 
