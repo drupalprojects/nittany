@@ -25,6 +25,17 @@ projects[entityreference][subdir] = "contrib"
 ; visual styling of groupings of fields
 projects[field_group][version] = "1.1"
 projects[field_group][subdir] = "contrib"
+; edit things in place, backported from D8
+projects[edit][version] = "1.0-alpha11"
+projects[edit][subdir] = "contrib"
+
+; Performance
+; CSS / JS aggregation above core work
+projects[advagg][version] = "2.0-beta2"
+projects[advagg][subdir] = "contrib"
+; entitycache to help improve performance
+projects[entitycache][version] = "1.1"
+projects[entitycache][subdir] = "contrib"
 
 ; Site Builder
 ; Will be core in the future, necessary 
@@ -180,6 +191,9 @@ projects[views_bulk_operations][subdir] = "contrib"
 ; get data exported from views in other formats
 projects[views_data_export][version] = "3.0-beta6"
 projects[views_data_export][subdir] = "contrib"
+; edit views in place, great for content authors
+projects[editableviews][version] = "1.0-beta6"
+projects[editableviews][subdir] = "contrib"
 ; give additional attributes to menu items
 projects[menu_attributes][version] = "1.0-rc2"
 projects[menu_attributes][subdir] = "contrib"
@@ -211,7 +225,7 @@ projects[feeds_xpathparser][subdir] = "contrib"
 projects[job_scheduler][version] = "2.0-alpha3"
 projects[job_scheduler][subdir] = "contrib"
 ; Help with appending views and other items into menus
-projects[menu_breadcrumb][version] = "1.3"
+projects[menu_breadcrumb][version] = "1.4"
 projects[menu_breadcrumb][subdir] = "contrib"
 ; Conditional webform options
 projects[webform_conditional][version] = "1.0-beta1"
@@ -226,7 +240,7 @@ projects[themekey][subdir] = "contrib"
 projects[fitvids][version] = "1.12"
 projects[fitvids][subdir] = "contrib"
 ; Helps with site migration / building make / info files
-projects[profiler_builder][version] = "1.0-rc4"
+projects[profiler_builder][version] = "1.0"
 projects[profiler_builder][subdir] = "contrib"
 ; Provides a field that can use a color widget
 projects[jquery_colorpicker][version] = "1.0-rc2"
@@ -239,6 +253,9 @@ projects[boost][subdir] = "contrib"
 ; enable faster transfer of resources
 projects[cdn][version] = "2.6"
 projects[cdn][subdir] = "contrib"
+; utility module to request remote addresses faster
+projects[httprl][version] = "1.12"
+projects[httprl][subdir] = "contrib"
 
 
 ; Themes
@@ -255,7 +272,7 @@ projects[omega][version] = "3.1"
 projects[omega][type] = "theme"
 projects[omega][subdir] = "contrib"
 ; chamfer, theme made by e-learning institute as an accessible responsive omega-based theme
-projects[chamfer][version] = "1.0-rc2"
+projects[chamfer][version] = "1.x-dev"
 projects[chamfer][type] = "theme"
 projects[chamfer][subdir] = "contrib"
 
