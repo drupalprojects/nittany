@@ -11,16 +11,16 @@ projects[webform][subdir] = "contrib"
 projects[options_element][version] = "1.9"
 projects[options_element][subdir] = "contrib"
 ; Special field for checkboxes to have other option with textfield
-projects[select_or_other][version] = "2.18"
+projects[select_or_other][version] = "2.20"
 projects[select_or_other][subdir] = "contrib"
 ; adds a field for storing dates more easily
 projects[date][version] = "2.6"
 projects[date][subdir] = "contrib"
 ; typically required at some point
-projects[entity][version] = "1.1"
+projects[entity][version] = "1.2"
 projects[entity][subdir] = "contrib"
 ; make fields that reference entities
-projects[entityreference][version] = "1.0"
+projects[entityreference][version] = "1.1"
 projects[entityreference][subdir] = "contrib"
 ; visual styling of groupings of fields
 projects[field_group][version] = "1.1"
@@ -102,7 +102,7 @@ projects[video_filter][subdir] = "contrib"
 projects[better_formats][version] = "1.0-beta1"
 projects[better_formats][subdir] = "contrib"
 ; Better looking rendered text, especially when responsive
-projects[typogrify][version] = "1.0-rc6"
+projects[typogrify][version] = "1.0-rc8"
 projects[typogrify][subdir] = "contrib"
 
 ; Admin UX
@@ -119,7 +119,7 @@ projects[diff][subdir] = "contrib"
 projects[module_filter][version] = "1.7"
 projects[module_filter][subdir] = "contrib"
 ; Provides block system override
-projects[context][version] = "3.0-beta6"
+projects[context][version] = "3.1"
 projects[context][subdir] = "contrib"
 ; Slices of a menu
 projects[menu_block][version] = "2.3"
@@ -216,7 +216,7 @@ projects[coder][subdir] = "contrib"
 projects[feeds][version] = "2.0-alpha8"
 projects[feeds][subdir] = "contrib"
 ; modify data before adding
-projects[feeds_tamper][version] = "1.0-beta4"
+projects[feeds_tamper][version] = "1.0-beta5"
 projects[feeds_tamper][subdir] = "contrib"
 ; walk XML documents
 projects[feeds_xpathparser][version] = "1.0-beta4"
@@ -228,16 +228,16 @@ projects[job_scheduler][subdir] = "contrib"
 projects[menu_breadcrumb][version] = "1.4"
 projects[menu_breadcrumb][subdir] = "contrib"
 ; Conditional webform options
-projects[webform_conditional][version] = "1.0-beta1"
+projects[webform_conditional][version] = "1.0-beta2"
 projects[webform_conditional][subdir] = "contrib"
 ; Validation webform options
-projects[webform_validation][version] = "1.2"
+projects[webform_validation][version] = "1.3"
 projects[webform_validation][subdir] = "contrib"
 ; Much more flexibility then taxonomy theme
 projects[themekey][version] = "2.5"
 projects[themekey][subdir] = "contrib"
 ; Responsive videos
-projects[fitvids][version] = "1.12"
+projects[fitvids][version] = "1.14"
 projects[fitvids][subdir] = "contrib"
 ; Helps with site migration / building make / info files
 projects[profiler_builder][version] = "1.0"
